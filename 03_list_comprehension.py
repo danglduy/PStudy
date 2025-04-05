@@ -6,6 +6,3 @@ def list_even(numbers):
     return [i for i in numbers if i % 2 == 0]
 
 print(list_even(range(10)))
-
-
-
