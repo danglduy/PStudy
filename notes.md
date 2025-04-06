@@ -12,4 +12,5 @@
     - start
     - end
     - step: step > 0: going forward, step < 1: going backward
+- recursion inside generator :?
 
